@@ -1,12 +1,14 @@
-{
-  "ver": "1.0.0",
-  "force": true,
-  "upUrl": "https://chat.whatsapp.com/Hy4UTRw7wYkFjraHM4rWrK?s=cl&p=a&iam=2",
-  "tg": "https://t.me/StnTech",
-  "wa": "",
-  "yt": "https://youtube.com/xxx",
-  "ig": "https://insta.com/xxx",
-  "m1": "1. Welcome to StnTech ® Modder. 🇨🇮🥇🛠️🛠️🛠️🎭",
-  "m2": "2. Joindre l'administrateur sur WhatsApp pour Achat.",
-  "m3": "3. Nous avons besoins de vos avis en commentaire...."
-}
+[
+  {
+    "device_id": "07FA23D3540A8706",
+    "key": "MERCISTNTECH",
+    "expirydate": "09-11-2026",
+    "Allowoffline": true
+  },
+  {
+    "device_id": "07FA23D3540A8706",
+    "key": "MECBIEN",
+    "expirydate": "31-12-2026",
+    "Allowoffline": true
+  }
+]
